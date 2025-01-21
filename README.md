@@ -1,2 +1,2 @@
 # fullstack-backend
-Demo user portal Backend
+User portal Backend
